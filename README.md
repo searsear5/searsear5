@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Supanut Buabanprom
 ==========================================================================================================================================
 
-l've been learning react/sql/nodejs.and find a job (work from home/hybrid working 1-2 days/week)
+l've been learning react/sql/nodejs.and find a job (work from home or hybrid working 1-2 days/week)
 
 * 🌍  I'm based in Nonthaburi, Thailand
 
