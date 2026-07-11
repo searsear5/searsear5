@@ -1,13 +1,12 @@
 Hi 👋 My name is Supanut Buabanprom
 ==========================================================================================================================================
 
-Python Developer | Aspiring Junior Penetration Tester | Web Security & Offensive Tools  
+Python Developer
 
-I am currently working as a Python Developer and actively transitioning into the cybersecurity field, focusing on Web Application Penetration Testing and Offensive Security.
+I am currently working as a Python Developer and learning about Data engineer,DevOps.
 
 * 🌍  I'm based in Nonthaburi, Thailand
-* 🎯  Currently seeking a Junior Penetration Tester position (On-site / Hybrid / Remote)
-* 📚  Learning: Web Exploitation, Active Directory Attacks, Privilege Escalation
+* 🎯  Currently seeking a Junior Data engineer,DevOps position (On-site / Hybrid / Remote)
 
 ---
 
